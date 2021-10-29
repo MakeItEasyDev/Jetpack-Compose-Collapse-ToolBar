@@ -1,3 +1,3 @@
 # Jetpack-Compose-Collapse-ToolBar
 
-##YouTube on Watch Video(https://youtu.be/C1wsIZXU9RQ)
+## [Watch it on YouTube](https://youtu.be/C1wsIZXU9RQ)
